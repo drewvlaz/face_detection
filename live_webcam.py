@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 
 video_capture = cv2.VideoCapture(0)
 
-haar_face_cascade = cv2.CascadeClassifier('/home/student/PycharmProjects/face_detection/haarcascade_frontalface_default.xml')
-haar_eye_cascade = cv2.CascadeClassifier('/home/student/PycharmProjects/face_detection/haarcascade_eye.xml')
-haar_mouth_cascade = cv2.CascadeClassifier('/home/student/PycharmProjects/face_detection/Mouth.xml')
+haar_face_cascade = cv2.CascadeClassifier('haar_cascade_classifiers/haarcascade_frontalface_default.xml')
+haar_eye_cascade = cv2.CascadeClassifier('haar_cascade_classifiers/haarcascade_eye.xml')
+haar_mouth_cascade = cv2.CascadeClassifier('haar_cascade_classifiersMouth.xml')
 
 blue = (200, 100, 20)
 red = (100, 55, 220)
