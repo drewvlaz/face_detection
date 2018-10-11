@@ -4,5 +4,5 @@ This program uses OpenCV and Haar feature-based cascade classifiers to identify 
 
 ## Important Notes
 
-* You may need to change the file path of the _.xml_ files.
+* You may need to change the path of the _.xml_ files.
 * These files contain the necessary features that the program uses to detect faces.
