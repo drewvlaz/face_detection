@@ -8,4 +8,4 @@ This program uses OpenCV and Haar feature-based cascade classifiers to identify 
 * These files contain the necessary features that the program uses to detect faces.
 
 ## Some Resources
-* Tutorial at [https://realpython.com/face-detection-in-python-using-a-webcam/]real python.
+* Tutorial at [Real Python](https://realpython.com/face-detection-in-python-using-a-webcam/)
